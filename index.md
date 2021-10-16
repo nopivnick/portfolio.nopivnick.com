@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: 
 layout: collection
-share: true
-collection: portfolio # collection name
+share: false
+collection: projects # collection name
 entries_layout: grid # list (default), grid
 show_excerpts: # true (default), false
 sort_by: # date (default) title

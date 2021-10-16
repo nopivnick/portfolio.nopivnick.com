@@ -1,7 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Work
   url: /
+- title: About
+  url: /about/
+- title: Contact
+  url: /contact/
 # - title: Posts
 #   url: /posts/
 # - title: Categories

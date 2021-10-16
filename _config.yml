@@ -17,8 +17,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "NOAH PIVNICK"
+description: "PORTFOLIO"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  projects:
+    output: true
+#    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -91,9 +97,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Noah Pivnick
   picture:
-  email:
+  email: nopivnick@nopivnick.com
   twitter:
   links:
     - title:
