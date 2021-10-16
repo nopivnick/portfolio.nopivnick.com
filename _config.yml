@@ -19,7 +19,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "NOAH PIVNICK"
 description: "PORTFOLIO"
-baseurl: https://portfolio.nopivnick.com # the subpath of your site, e.g. "/blog"
+baseurl: "https://portfolio.nopivnick.com" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
