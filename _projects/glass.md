@@ -1,6 +1,7 @@
 ---
 title: Glass
 layout: page
+permalink: /:name
 excerpt: ""
 image:
   path: /images/projects/glass/8W0B9459_2400x1600.jpg

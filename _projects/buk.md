@@ -1,6 +1,7 @@
 ---
 title: BuK
 layout: page
+permalink: /:name
 excerpt: ""
 image:
   path: /images/projects/buk/final_a12_2400x1600.jpg

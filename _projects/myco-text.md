@@ -1,6 +1,7 @@
 ---
 title: Myco-text
 layout: page
+permalink: /:name
 excerpt: ""
 image:
   path: /images/projects/luna-cycle/IMG_7982_2400x1600.jpg

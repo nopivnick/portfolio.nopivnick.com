@@ -1,6 +1,7 @@
 ---
 title: Monkey Face Time
 layout: page
+permalink: /:name
 excerpt: ""
 image:
   path: /images/projects/monkey-face-time/IMG_4758_2400x1600.jpg

@@ -1,6 +1,7 @@
 ---
 title: Creaturely Life
 layout: page
+permalink: /:name
 excerpt: ""
 image:
   path: /images/projects/creaturely-life/Frame_2400x1600.jpg
